@@ -1,4 +1,4 @@
-# Web scrapin Jumia Online sellin Platform
+# Web scraping Jumia Online selling Platform
 - I managed to webscrap Jumia stores to get and analyze products on discount on 11th November 2024.
 - The following tools were used:
   1. BeatufulSoup
