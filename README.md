@@ -1,11 +1,11 @@
 # Web scrapin Jumia Online sellin Platform
 - I managed to webscrap Jumia stores to get and analyze products on discount on 11th November 2024.
 - The following tools were used:
-  BeatufulSoup
-  Requests
-  Pandas
-  Numpy
-  Matplotlib & Seaborn.
+  1. BeatufulSoup
+  2. Requests
+  3. Pandas
+  4. Numpy
+  5. Matplotlib & Seaborn.
 
   # Conclusions
   - Upon scraping, cleaning and analyzing the dataset the following conclusions were made:
